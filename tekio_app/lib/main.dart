@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:tekio_app/core/database/local_database.dart';
 // import 'package:playground_flutter/core/logger/app_logger.dart';
 import 'package:tekio_app/features/app/app.dart';
